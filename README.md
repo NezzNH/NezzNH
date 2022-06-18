@@ -19,6 +19,8 @@ Node.js
 ==================
 
 Projects to-do:
-C Language based Chatroom \n
-Website \n
+C Language based Chatroom
+
+Website 
+
 *Exoplanets (a program meant for interpreting light curves from telescopes and modeling exoplanet systems with visualization for faster identification)*
