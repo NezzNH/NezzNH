@@ -3,6 +3,7 @@
 Hi. I'm a 16 year old high school student currently learning coding.
 I'm looking to work as a software engineer some day, and I'm new to GitHub rn.
 Currently studying:
+
 C
 
 Lua
