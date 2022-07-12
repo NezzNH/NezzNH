@@ -22,10 +22,6 @@ CSS
 
 Python
 
-JavaScript
-
-Node.js
-
 ==================
 
 Projects to-do:
