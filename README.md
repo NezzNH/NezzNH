@@ -8,9 +8,9 @@ C
 
 Lua
 
-To do yet:
-
 C++
+
+To do yet:
 
 C#
 
