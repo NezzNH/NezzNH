@@ -1,6 +1,6 @@
 ==================
 
-Hi. I'm a 16 year old high school student currently learning coding.
+Hi. I'm a 17 year old high school student currently learning coding.
 I'm looking to work as a software engineer some day, and I'm new to GitHub rn.
 Currently studying:
 
@@ -18,7 +18,13 @@ Python
 
 ==================
 
+In Progress:
+
+Console text-editor in C++
+
 Projects to-do:
+
+
 C Language based Chatroom
 
 Website 
