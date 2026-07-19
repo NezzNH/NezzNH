@@ -1,1 +1,1 @@
-20 y/o working on random C#, C++ and C projects in my free time.
+20 y/o learning C++
